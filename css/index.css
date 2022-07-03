@@ -3377,7 +3377,7 @@ h1.page-title + .tag-cloud-list {
   background: 0;
 }
 #page-header.not-top-img #nav {
-  background: rgba(255,255,255,0.7);
+  background: rgba(255,255,255,0.8);
   -webkit-box-shadow: 0 5px 6px -5px rgba(133,133,133,0.6);
   box-shadow: 0 5px 6px -5px rgba(133,133,133,0.6);
 }
@@ -3389,7 +3389,7 @@ h1.page-title + .tag-cloud-list {
   position: fixed;
   top: -60px;
   z-index: 91;
-  background: rgba(255,255,255,0.7);
+  background: rgba(255,255,255,0.8);
   -webkit-box-shadow: 0 5px 6px -5px rgba(133,133,133,0.6);
   box-shadow: 0 5px 6px -5px rgba(133,133,133,0.6);
   -webkit-transition: -webkit-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
