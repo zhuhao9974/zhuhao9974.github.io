@@ -30,38 +30,6 @@
     
     
     <entry>
-      <title>My New Post</title>
-      <link href="/2022/07/02/My-New-Post/"/>
-      <url>/2022/07/02/My-New-Post/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>TEST</title>
-      <link href="/2022/07/01/TEST/"/>
-      <url>/2022/07/01/TEST/</url>
-      
-        <content type="html"><![CDATA[<p>这是我 的第一个博客！</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> -TEST </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/2022/06/30/hello-world/"/>
       <url>/2022/06/30/hello-world/</url>
